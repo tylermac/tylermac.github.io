@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://tylermac.net/post-sitemap.xml</loc>
+        <loc>http://tylermac.github.io/post-sitemap.xml</loc>
         <lastmod>2016-03-24T12:36:24.962Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://tylermac.net/page-sitemap.xml</loc>
+        <loc>http://tylermac.github.io/page-sitemap.xml</loc>
         <lastmod>2016-03-24T14:49:21.795Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://tylermac.net/category-sitemap.xml</loc>
+        <loc>http://tylermac.github.io/category-sitemap.xml</loc>
         <lastmod>2016-03-24T12:36:24.962Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://tylermac.net/tag-sitemap.xml</loc>
+        <loc>http://tylermac.github.io/tag-sitemap.xml</loc>
         <lastmod>2016-03-24T12:36:24.962Z</lastmod>
     </sitemap>
 

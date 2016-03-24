@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tylermac.net</title>
-    <link>http://tylermac.net/</link>
+    <link>http://tylermac.github.io/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
@@ -13,8 +13,8 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://tylermac.net/meta/install/hello-world/</link>
-      <guid>http://tylermac.net/meta/install/hello-world/</guid>
+      <link>http://tylermac.github.io/meta/install/hello-world/</link>
+      <guid>http://tylermac.github.io/meta/install/hello-world/</guid>
       <pubDate>Thu, 24 Mar 2016 12:29:45 GMT</pubDate>
       <description>
       
@@ -33,7 +33,7 @@
 &lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
       
-      <comments>http://tylermac.net/meta/install/hello-world/#disqus_thread</comments>
+      <comments>http://tylermac.github.io/meta/install/hello-world/#disqus_thread</comments>
     </item>
     
   </channel>
